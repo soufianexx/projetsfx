@@ -1,0 +1,211 @@
+@import url(https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap);
+
+
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+
+}
+
+
+.navps{
+    position: relative;
+    top: 0px;
+    padding:10px 10px 0 10px  ;
+    background-color: #003697;
+    height: 50px;
+    width: 60%;
+    left: 300px;
+    border-radius: 10px;
+ }
+    
+    .navps p{
+        text-align: center;
+        font-size: 30px;
+        font-weight: bold;
+        color: #cfd7d8;
+    }
+
+
+    .gh{
+      padding-top: 20px;
+      position: absolute;
+    }
+
+    .gh img{
+     padding-bottom: 20px;
+     margin-left: 100px;
+
+    }
+
+    .text_hor{
+     position: relative;
+     background: url(hooor.PNG);
+     background-size: cover;
+     background-position: center;
+     width: 60%;
+     font-size: 22px ;
+     font-family: Poppins;
+     color: rgb(255, 95, 2);
+     font-weight:bold ;
+     margin-left: 500px;
+     margin-top: 40px;
+     top: 10px;
+     padding: 5px;
+     border-radius: 10px;
+    }
+
+    .hor{
+     padding:50px;
+    }
+
+
+
+
+
+
+    .gh_c{
+        padding-top: 20px;
+        position: absolute;
+      }
+  
+      .gh_c img{
+       padding-bottom: 20px;
+       margin-left: 70px;
+       
+      }
+  
+      .text_hor_c{
+       position: relative;
+       background: url(call2.jpg);
+       background-size: cover;
+       background-position: center;
+       width: 60%;
+       font-size: 22px ;
+       font-family: Poppins;
+       color: rgb(255, 255, 255);
+       font-weight:bold ;
+       margin-left: 500px;
+       margin-top: 40px;
+       top: 110px;
+       padding: 15px;
+       border-radius: 10px;
+      }
+  
+      .hor_c{
+       padding:50px;
+      }
+
+
+
+
+
+
+      .gh_h{
+        padding-top: 20px;
+        position: absolute;
+      }
+  
+      .gh_h img{
+       padding-bottom: 20px;
+       margin-left: -85px;
+  
+      }
+  
+      .text_hor_h{
+       position: relative;
+       background: url(unch22.PNG);
+       background-size: cover;
+       background-position: center;
+       width: 80%;
+       font-size: 22px ;
+       font-family: Poppins;
+       color: rgb(74, 198, 198);
+       font-weight:bold ;
+       margin-left: 350px;
+       margin-top: 40px;
+       top: 75px;
+       padding: 10px;
+       border-radius: 10px;
+      }
+  
+      .hor_h{
+       padding:200px;
+       margin-top: 85px;
+      }
+
+      .navps_h{
+        position: relative;
+        top: 0px;
+        padding:10px 10px 0 10px  ;
+        background-color: #003697;
+        height: 50px;
+        width: 80%;
+        left: 94px;
+        border-radius: 10px;
+     }
+        
+        .navps_h p{
+            text-align: center;
+            font-size: 30px;
+            font-weight: bold;
+            color: #cfd7d8;
+        }
+
+
+
+
+
+
+
+        .gh_g{
+            padding-top: 20px;
+            position: absolute;
+          }
+      
+          .gh_g img{
+           padding-bottom: 20px;
+           margin-left: 65px;
+      
+          }
+      
+          .text_hor_g{
+           position: relative;
+           background: url(god2.jpg);
+           background-size: cover;
+           background-position: center;
+           width: 50%;
+           font-size: 22px ;
+           font-family: Poppins;
+           color: rgb(235, 0, 0);
+           font-weight:bold ;
+           margin-left: 500px;
+           margin-top: 40px;
+           top: 90px;
+           padding: 10px;
+           border-radius: 10px;
+          }
+      
+          .hor_g{
+           padding:50px;
+          }
+
+          .navps_g{
+            position: relative;
+            top: 0px;
+            padding:10px 10px 0 10px  ;
+            background-color: #003697;
+            height: 50px;
+            width: 60%;
+            left: 300px;
+            border-radius: 10px;
+         }
+            
+         .navps_g p{
+          text-align: center;
+          font-size: 30px;
+          font-weight: bold;
+          color: #cfd7d8;
+         }
+    

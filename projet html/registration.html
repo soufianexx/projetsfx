@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="registration.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class=" wrapper">
+        <form action="index.html" onsubmit="">
+            <h1>Registration</h1>
+
+        <div class="input-box">
+
+           <div class="input1">
+             <input type="text" placeholder="Full Name" required >
+              <i class='bx bxs-user'></i>
+              </div>
+
+            <div class="input1">
+              <input type="text" id="in1" placeholder="Username" required >
+               <i class='bx bxs-user'></i>
+               </div>
+
+            <div class="input1">
+             <input type="email" id="in2" placeholder="Email" required >
+            
+             <i class='bx bxs-envelope' ></i>
+              </div>
+              
+            <div class="input1">
+             <input type="number" placeholder="Phone Number" required >
+             <i class='bx bxs-phone' ></i>
+              </div>
+
+            <div class="input1">
+             <input type="password" placeholder="Password" required >
+             <i class='bx bxs-lock-alt' ></i>
+               </div>  
+               
+            <div class="input1">
+              <input type="password" placeholder="Confirm password" required >
+              <i class='bx bxs-lock-alt' ></i>
+                </div>
+         </div>
+   
+         <label> <input type="checkbox"> I declared that the information
+             provided is true and correct </label>
+              <button type="submit" class="btn" onclick="add()"> Register </button>
+
+       </form>
+    </div>
+
+  <script src="java.js"></script>
+
+
+
+</body>
+</html>
